@@ -1,0 +1,12 @@
+D:\Software Engenieering\Database\Database\bin\Debug\Database.exe.config
+D:\Software Engenieering\Database\Database\bin\Debug\Database.exe
+D:\Software Engenieering\Database\Database\bin\Debug\Database.pdb
+D:\Software Engenieering\Database\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+D:\Software Engenieering\Database\Database\obj\Debug\Database.Properties.Resources.resources
+D:\Software Engenieering\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+D:\Software Engenieering\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+D:\Software Engenieering\Database\Database\obj\Debug\Database.exe
+D:\Software Engenieering\Database\Database\obj\Debug\Database.pdb
+D:\Software Engenieering\Database\Database\bin\Debug\MarketDB.mdf
+D:\Software Engenieering\Database\Database\bin\Debug\MarketDB_log.ldf
+D:\Software Engenieering\Database\Database\obj\Debug\Database.Main_Menu.resources
